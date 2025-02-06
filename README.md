@@ -31,11 +31,11 @@
 
 step1. 按照提示选择csv文件。
 
-![1](E:\门户爬虫\北大门户\1.png)
+![1](https://github.com/qqworld-tutu/PKU-Nuclear-Weapon/blob/main/1.png)
 
 step2. 任意输入至少一个查询条件即可，图例为首字母查询。
 
-![2](E:\门户爬虫\北大门户\2.png)
+![2](https://github.com/qqworld-tutu/PKU-Nuclear-Weapon/blob/main/2.png)
 
 ## 免责声明
 
